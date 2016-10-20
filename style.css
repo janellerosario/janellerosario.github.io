@@ -1,0 +1,37 @@
+/*wireframe link:
+https://wireframe.cc/lySt6e */
+
+body {
+  background-color: black;
+  color: pink;
+  font-size: 40px;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: center;
+}
+
+/*
+#about-link,
+#projects-link,
+#home-link {
+  color: pink;
+}*/
+
+/*nav {
+  float: right;
+  display: inline-block;
+}*/
+
+a:link, {
+  color: pink;
+}
+
+a:visited {
+  color: purple;
+}
+
+
+
+li {
+  list-style: none;
+}
+
