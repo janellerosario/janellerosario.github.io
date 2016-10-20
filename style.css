@@ -4,34 +4,18 @@ https://wireframe.cc/lySt6e */
 body {
   background-color: black;
   color: pink;
-  font-size: 40px;
+  font-size: 20px;
   font-family: 'Titillium Web', sans-serif;
   text-align: center;
 }
 
-/*
-#about-link,
-#projects-link,
-#home-link {
-  color: pink;
-}*/
-
-/*nav {
-  float: right;
-  display: inline-block;
-}*/
-
-a:link, {
-  color: pink;
+.profile-pic {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
 }
 
-a:visited {
-  color: purple;
+.flex-container {
+  display: flex;
+
 }
-
-
-
-li {
-  list-style: none;
-}
-
