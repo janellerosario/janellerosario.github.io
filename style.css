@@ -48,13 +48,15 @@ footer {
 }
 .project-1,
 .project-2,
-.project-3 {
+.project-3,
+.project-4 {
 
 }
 
 .project-1-pic,
 .project-2-pic,
-.project-3-pic {
+.project-3-pic,
+.project-4-pic {
   height: 400px;
   width: 500px;
   position: relative;
